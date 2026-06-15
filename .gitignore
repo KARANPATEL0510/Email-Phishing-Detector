@@ -21,3 +21,20 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Python
+venv/
+**/venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs and status
+*.log
+mongo_status.txt
+tempCodeRunnerFile.py
+
