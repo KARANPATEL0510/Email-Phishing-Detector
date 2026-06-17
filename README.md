@@ -131,7 +131,6 @@ Ensure that your MongoDB service is running on `localhost:27017`.
 Feel free to reach out to the project team:
 
 *   **Anuj Suvarna** — [anujsuvarna7@gmail.com](mailto:anujsuvarna7@gmail.com)
-*   **Simran Busi** — [honey040304@gmail.com](mailto:honey040304@gmail.com)
 *   **Justin Fernandes** — [justin.fds2005@example.com](mailto:justin.fds2005@example.com)
 *   **Karan Patel** — [karanp24680@gmail.com](mailto:karanp24680@gmail.com)
 
