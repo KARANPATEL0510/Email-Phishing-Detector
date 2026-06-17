@@ -95,10 +95,7 @@ Ensure that your MongoDB service is running on `localhost:27017`.
     
     # Activation on Windows Command Prompt:
     venv\Scripts\activate
-    # Activation on PowerShell:
-    .\venv\Scripts\Activate.ps1
-    # Activation on macOS/Linux:
-    source venv/bin/activate
+   
     ```
 3.  Install the required dependencies:
     ```bash
